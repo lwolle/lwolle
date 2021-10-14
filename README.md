@@ -1,16 +1,16 @@
-### Hi there 👋
+### Dr. Lukas Wollmann
 
-<!--
-**lwolle/lwolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Good morning,
+my name is Lukas Wollmann, I'm a chemist (PhD) turned passionate software developer and development team lead. I have a passion for well-organized codebases, and believe that architecture needs to serve the business that powers the project.
+ are some ideas to get you started:
 
-Here are some ideas to get you started:
+🔭  &nbsp; I’m currently working for [spread.ai](https://www.spread.ai) as a senior frontend engineer and squad lead </br>
+🌱  &nbsp; I’m currently learning golang </br>
+💬  &nbsp; Ask me about _anything_ </br>
+📫  &nbsp; How to reach me: lukas@wollmann.io </br>
+⚡  &nbsp; Fun fact: Programming is not rocket science. Rocket science is rocket science. </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Philosophy
+**TBD**
+
