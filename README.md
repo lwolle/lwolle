@@ -14,3 +14,10 @@ my name is Lukas Wollmann, I'm a chemist (PhD) turned passionate software develo
 ### Philosophy
 **TBD**
 
+### Find me
+
+<a href="https://de.linkedin.com/in/lukas-wollmann">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+              
