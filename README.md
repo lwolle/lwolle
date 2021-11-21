@@ -12,7 +12,7 @@ my name is Lukas Wollmann, I'm a chemist (PhD) turned passionate software develo
 
 
 ### Philosophy
-**TBD**
+*Software development is entropy management*
 
 ### Find me
 
